@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "Misir Ali Omnibus",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/SdrVgsr/20221128081230-63846d6e8ccc2-23-misir-ali-omnibus-3-pdf-book-by-humayun-ahmedpage0.jpg",
+        "review": "Humayun Ahmed's Misir Ali series delves into the depths of human psychology, intertwining suspenseful narratives with philosophical reflections, making it a captivating read.",
+        "totalPages": "Total Page:720",
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 2007
+    },
+    {
+        "bookId": 2,
+        "bookName": "Debi",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/5WxnzKc/01-Debi-By-Humayun-Ahme.jpg",
+        "review": "Debi, a masterpiece by Humayun Ahmed, explores the complexities of faith, belief, and spirituality through an intriguing narrative that keeps the readers engaged till the last page.",
+        "totalPages": "Total Page:256",
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Spiritual", "Drama"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 1993
+    },
+    {
+        "bookId": 3,
+        "bookName": "Nondito Noroke",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/12h16cw/Nondito-Noroke-book-cover.jpg",
+        "review": "Nondito Noroke depicts the struggles of a young man in a society marked by social prejudices and economic hardships, offering profound insights into human relationships and aspirations.",
+        "totalPages": "Total Page:336",
+        "rating": 4.3,
+        "category": "Autobiographical",
+        "tags": ["Drama", "Social"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 1972
+    },
+    {
+        "bookId": 4,
+        "bookName": "Megher Chaya",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/CMpdvLc/15f526079c516b7b49e1a4c09bad8970.jpg",
+        "review": "Megher Chaya beautifully captures the essence of love, sacrifice, and resilience amidst the backdrop of Bangladesh's turbulent political landscape, making it a poignant and unforgettable tale.",
+        "totalPages": "Total Page:432",
+        "rating": 4.4,
+        "category": "Romance",
+        "tags": ["Love", "Politics"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 1999
+    },
+    {
+        "bookId": 5,
+        "bookName": "Aguner Poroshmoni",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/FnYGcHc/0cbc34d30cb9c56d044c4884cea942cb.jpg",
+        "review": "Aguner Poroshmoni intricately weaves together the stories of individuals affected by the Liberation War of Bangladesh, portraying their struggles, sacrifices, and resilience amidst chaos and uncertainty.",
+        "totalPages": "Total Page:368",
+        "rating": 4.7,
+        "category": "Historical Fiction",
+        "tags": ["War", "Resilience"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 1989
+    },
+    {
+        "bookId": 6,
+        "bookName": "Shonkhonil Karagar",
+        "author": "Humayun Ahmed",
+        "image": "https://i.ibb.co/kcYhnNH/1464926513.jpg",
+        "review": "Shonkhonil Karagar delves into the lives of individuals grappling with societal norms, personal conflicts, and the quest for identity, offering a thought-provoking narrative that resonates long after reading.",
+        "totalPages": "Total Page:400",
+        "rating": 4.2,
+        "category": "Drama",
+        "tags": ["Identity", "Society"],
+        "publisher": "Annyaprokash",
+        "yearOfPublishing": 1992
+    }
+]
