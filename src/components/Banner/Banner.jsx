@@ -1,9 +1,8 @@
 
 
-const Home = () => {
+const Banner = () => {
     return (
         <div>
-            <h2>This is home</h2>
             <div>
                 <div className="hero min-h-screen bg-base-200 rounded-3xl p-20">
                     <div className="hero-content flex-col lg:flex-row-reverse">
@@ -17,9 +16,7 @@ const Home = () => {
                 </div>
             </div>
         </div>
-
-
     );
 };
 
-export default Home;
+export default Banner;
