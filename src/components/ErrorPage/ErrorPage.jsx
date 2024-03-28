@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const ErrorPage = () => {
     return (
         <div>
-            <h2>The URL is broken</h2>
+            <h2>This site can’t be reached</h2>
             <Link to="/">Go back to home</Link>
             
         </div>

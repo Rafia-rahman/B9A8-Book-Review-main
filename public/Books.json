@@ -8,7 +8,7 @@
         "totalPages": "Total Page:720",
         "rating": 4.5,
         "category": "Fiction",
-        "tags": ["Suspense", "Psychological"],
+        "Young_or_Adult": "Adult",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 2007
     },
@@ -21,7 +21,7 @@
         "totalPages": "Total Page:256",
         "rating": 4.6,
         "category": "Fiction",
-        "tags": ["Spiritual", "Drama"],
+        "Young_or_Adult": "Adult",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 1993
     },
@@ -34,7 +34,7 @@
         "totalPages": "Total Page:336",
         "rating": 4.3,
         "category": "Autobiographical",
-        "tags": ["Drama", "Social"],
+        "Young_or_Adult": "Adult",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 1972
     },
@@ -47,7 +47,7 @@
         "totalPages": "Total Page:432",
         "rating": 4.4,
         "category": "Romance",
-        "tags": ["Love", "Politics"],
+        "Young_or_Adult": "Young",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 1999
     },
@@ -60,7 +60,7 @@
         "totalPages": "Total Page:368",
         "rating": 4.7,
         "category": "Historical Fiction",
-        "tags": ["War", "Resilience"],
+        "Young_or_Adult": "Young",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 1989
     },
@@ -73,7 +73,7 @@
         "totalPages": "Total Page:400",
         "rating": 4.2,
         "category": "Drama",
-        "tags": ["Identity", "Society"],
+        "Young_or_Adult": "Adult",
         "publisher": "Annyaprokash",
         "yearOfPublishing": 1992
     }

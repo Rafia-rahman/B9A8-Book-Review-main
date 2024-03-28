@@ -11,6 +11,7 @@ import Home from './components/Home/Home';
 import Bookshop from './components/bookshop/Bookshop';
 import ErrorPage from './components/ErrorPage/ErrorPage';
 import MostRead from './components/MostRead/MostRead';
+import Contact from './components/Contact/Contact';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,11 @@ const router = createBrowserRouter([
       {
         path: '/most read books',
         element: <MostRead></MostRead>
+      },
+      
+      {
+        path: '/contact' ,
+        element: <Contact></Contact>
       }
 
 
