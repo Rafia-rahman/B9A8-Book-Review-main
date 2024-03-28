@@ -10,6 +10,7 @@ import Root from './components/Root/Root';
 import Home from './components/Home/Home';
 import Bookshop from './components/bookshop/Bookshop';
 import ErrorPage from './components/ErrorPage/ErrorPage';
+import MostRead from './components/MostRead/MostRead';
 
 const router = createBrowserRouter([
   {
@@ -26,7 +27,14 @@ const router = createBrowserRouter([
         path: '/listed book',
         element: <Bookshop></Bookshop>
 
+      },
+
+      {
+        path: '/most read books',
+        element: <MostRead></MostRead>
       }
+
+
     ]
   },
 ]);

@@ -7,6 +7,8 @@ const Header = () => {
         <li className="text-green-600 bg-white border-green-600"><NavLink to="/">Home</NavLink></li>
         <li><NavLink to="/listed book">Listed Books</NavLink></li>
         <li><NavLink to="/pages to read">Pages to Read</NavLink></li>
+        <li><NavLink to="/most read books">Most Read Books</NavLink></li>
+        <li><NavLink to="/contact">Contact</NavLink></li>
     </>
     return (
         <div className="navbar bg-base-100">
