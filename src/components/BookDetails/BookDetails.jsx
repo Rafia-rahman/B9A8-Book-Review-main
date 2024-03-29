@@ -13,6 +13,8 @@ const BookDetails = () => {
     const handleReadBook = () =>{
 
         toast('Hey!now you can read');
+
+
     }
 
     const { image, bookName, author, review, totalPages, rating, category, Young_or_Adult, publisher, yearOfPublishing } = book;
